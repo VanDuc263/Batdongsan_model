@@ -9,11 +9,3 @@ Dự án gồm 2 bài toán Machine Learning:
 - [House Price Prediction](house_price_prediction/)
 - [Comment Sentiment Classification](comment_sentiment/)
 
-## 🛠 Công nghệ sử dụng
-- Python
-- Scikit-learn
-- TF-IDF + SVM
-- Pandas, NumPy
-
-## 📂 Cấu trúc thư mục
-(Mô tả ngắn)
